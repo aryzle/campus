@@ -1,0 +1,44 @@
+{
+  "name": "campus",
+  "version": "0.0.1",
+  "description": "App showing friends on campus",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot --progress --colors",
+    "build": "webpack --progress --colors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryzle/campus.git"
+  },
+  "author": "aryzle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aryzle/campus/issues"
+  },
+  "homepage": "https://github.com/aryzle/campus#readme",
+  "devDependencies": {
+    "babel": "^5.8.29",
+    "babel-core": "^6.4.5",
+    "babel-loader": "^6.2.2",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.5.0",
+    "express": "^4.13.3",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.5",
+    "history": "^1.17.0",
+    "node-sass": "^3.4.2",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "react-hot-loader": "^1.3.0",
+    "react-router": "^1.0.3",
+    "redux": "^3.3.1",
+    "redux-devtools": "^3.1.1",
+    "sass-loader": "^3.1.2",
+    "webpack": "^1.12.13",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "dependencies": {
+    "react-redux": "^4.4.0"
+  }
+}
