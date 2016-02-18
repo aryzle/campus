@@ -7,7 +7,7 @@ https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md#pull-requests
 
 Basically on your own fork you will:
 
-1.  create new breanch
+1.  create new branch
 2.  do work
 3.  commit work
 4.  push it to origin which is your fork still
